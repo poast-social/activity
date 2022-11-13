@@ -1,4 +1,4 @@
-module github.com/go-fed/activity
+module github.com/poast-social/activity
 
 go 1.12
 
