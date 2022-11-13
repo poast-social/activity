@@ -10,7 +10,7 @@ materials, in addition to the rest of this README.
 ## How To Use
 
 ```
-go get github.com/go-fed/activity
+go get github.com/poast-social/activity
 ```
 
 All generated types and properties are interfaces in

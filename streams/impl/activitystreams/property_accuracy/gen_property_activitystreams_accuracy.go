@@ -4,8 +4,8 @@ package propertyaccuracy
 
 import (
 	"fmt"
-	float "github.com/go-fed/activity/streams/values/float"
-	vocab "github.com/go-fed/activity/streams/vocab"
+	float "github.com/poast-social/activity/streams/values/float"
+	vocab "github.com/poast-social/activity/streams/vocab"
 	"net/url"
 )
 

@@ -3,13 +3,13 @@
 package streams
 
 import (
-	propertyblurhash "github.com/go-fed/activity/streams/impl/toot/property_blurhash"
-	propertydiscoverable "github.com/go-fed/activity/streams/impl/toot/property_discoverable"
-	propertyfeatured "github.com/go-fed/activity/streams/impl/toot/property_featured"
-	propertysignaturealgorithm "github.com/go-fed/activity/streams/impl/toot/property_signaturealgorithm"
-	propertysignaturevalue "github.com/go-fed/activity/streams/impl/toot/property_signaturevalue"
-	propertyvoterscount "github.com/go-fed/activity/streams/impl/toot/property_voterscount"
-	vocab "github.com/go-fed/activity/streams/vocab"
+	propertyblurhash "github.com/poast-social/activity/streams/impl/toot/property_blurhash"
+	propertydiscoverable "github.com/poast-social/activity/streams/impl/toot/property_discoverable"
+	propertyfeatured "github.com/poast-social/activity/streams/impl/toot/property_featured"
+	propertysignaturealgorithm "github.com/poast-social/activity/streams/impl/toot/property_signaturealgorithm"
+	propertysignaturevalue "github.com/poast-social/activity/streams/impl/toot/property_signaturevalue"
+	propertyvoterscount "github.com/poast-social/activity/streams/impl/toot/property_voterscount"
+	vocab "github.com/poast-social/activity/streams/vocab"
 )
 
 // NewTootTootBlurhashProperty creates a new TootBlurhashProperty

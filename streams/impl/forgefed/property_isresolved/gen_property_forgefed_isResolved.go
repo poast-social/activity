@@ -4,8 +4,8 @@ package propertyisresolved
 
 import (
 	"fmt"
-	boolean "github.com/go-fed/activity/streams/values/boolean"
-	vocab "github.com/go-fed/activity/streams/vocab"
+	boolean "github.com/poast-social/activity/streams/values/boolean"
+	vocab "github.com/poast-social/activity/streams/vocab"
 	"net/url"
 )
 

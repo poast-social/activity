@@ -9,7 +9,7 @@ import (
 	url "net/url"
 	reflect "reflect"
 
-	vocab "github.com/go-fed/activity/streams/vocab"
+	vocab "github.com/poast-social/activity/streams/vocab"
 	gomock "github.com/golang/mock/gomock"
 )
 

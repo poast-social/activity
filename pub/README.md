@@ -10,7 +10,7 @@ materials, in addition to the rest of this README.
 ## How To Use
 
 ```
-go get github.com/go-fed/activity
+go get github.com/poast-social/activity
 ```
 
 The root of all ActivityPub behavior is the `Actor`, which requires you to
@@ -18,7 +18,7 @@ implement a few interfaces:
 
 ```golang
 import (
-  "github.com/go-fed/activity/pub"
+  "github.com/poast-social/activity/pub"
 )
 
 type myActivityPubApp struct { /* ... */ }

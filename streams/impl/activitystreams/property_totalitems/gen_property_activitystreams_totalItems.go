@@ -4,8 +4,8 @@ package propertytotalitems
 
 import (
 	"fmt"
-	nonnegativeinteger "github.com/go-fed/activity/streams/values/nonNegativeInteger"
-	vocab "github.com/go-fed/activity/streams/vocab"
+	nonnegativeinteger "github.com/poast-social/activity/streams/values/nonNegativeInteger"
+	vocab "github.com/poast-social/activity/streams/vocab"
 	"net/url"
 )
 

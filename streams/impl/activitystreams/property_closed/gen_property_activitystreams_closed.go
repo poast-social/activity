@@ -4,9 +4,9 @@ package propertyclosed
 
 import (
 	"fmt"
-	boolean "github.com/go-fed/activity/streams/values/boolean"
-	datetime "github.com/go-fed/activity/streams/values/dateTime"
-	vocab "github.com/go-fed/activity/streams/vocab"
+	boolean "github.com/poast-social/activity/streams/values/boolean"
+	datetime "github.com/poast-social/activity/streams/values/dateTime"
+	vocab "github.com/poast-social/activity/streams/vocab"
 	"net/url"
 	"time"
 )

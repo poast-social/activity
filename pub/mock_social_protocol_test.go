@@ -6,7 +6,7 @@ package pub
 
 import (
 	context "context"
-	vocab "github.com/go-fed/activity/streams/vocab"
+	vocab "github.com/poast-social/activity/streams/vocab"
 	gomock "github.com/golang/mock/gomock"
 	http "net/http"
 	reflect "reflect"

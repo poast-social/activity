@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-fed/activity/streams"
-	"github.com/go-fed/activity/streams/vocab"
+	"github.com/poast-social/activity/streams"
+	"github.com/poast-social/activity/streams/vocab"
 	"github.com/golang/mock/gomock"
 )
 

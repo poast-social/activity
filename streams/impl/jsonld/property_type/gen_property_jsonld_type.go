@@ -4,9 +4,9 @@ package propertytype
 
 import (
 	"fmt"
-	anyuri "github.com/go-fed/activity/streams/values/anyURI"
-	string1 "github.com/go-fed/activity/streams/values/string"
-	vocab "github.com/go-fed/activity/streams/vocab"
+	anyuri "github.com/poast-social/activity/streams/values/anyURI"
+	string1 "github.com/poast-social/activity/streams/values/string"
+	vocab "github.com/poast-social/activity/streams/vocab"
 	"net/url"
 )
 

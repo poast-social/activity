@@ -4,8 +4,8 @@ package propertyduration
 
 import (
 	"fmt"
-	duration "github.com/go-fed/activity/streams/values/duration"
-	vocab "github.com/go-fed/activity/streams/vocab"
+	duration "github.com/poast-social/activity/streams/values/duration"
+	vocab "github.com/poast-social/activity/streams/vocab"
 	"net/url"
 	"time"
 )

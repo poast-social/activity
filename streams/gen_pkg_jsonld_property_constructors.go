@@ -3,9 +3,9 @@
 package streams
 
 import (
-	propertyid "github.com/go-fed/activity/streams/impl/jsonld/property_id"
-	propertytype "github.com/go-fed/activity/streams/impl/jsonld/property_type"
-	vocab "github.com/go-fed/activity/streams/vocab"
+	propertyid "github.com/poast-social/activity/streams/impl/jsonld/property_id"
+	propertytype "github.com/poast-social/activity/streams/impl/jsonld/property_type"
+	vocab "github.com/poast-social/activity/streams/vocab"
 )
 
 // NewJSONLDJSONLDTypeProperty creates a new JSONLDTypeProperty

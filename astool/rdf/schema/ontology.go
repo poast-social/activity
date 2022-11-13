@@ -2,7 +2,7 @@ package schema
 
 import (
 	"fmt"
-	"github.com/go-fed/activity/astool/rdf"
+	"github.com/poast-social/activity/astool/rdf"
 	neturl "net/url"
 	"strings"
 )

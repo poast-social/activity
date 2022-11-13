@@ -16,7 +16,7 @@ with the software engineering, `go-fed` welcomes you!
 
 The issues section of the repositories is generally **not** the place to ask
 questions. However, it is worth checking the
-[existing issues](https://github.com/go-fed/activity/issues?q=is%3Aissue) to see
+[existing issues](https://github.com/poast-social/activity/issues?q=is%3Aissue) to see
 if an existing bug or feature request provides enough context to answer the
 question.
 
@@ -31,16 +31,16 @@ tutorial for this library. My apologies that it is not available at this time.
 ## I found a bug!
 
 The issues section is made just for you! Please check the
-[existing issues](https://github.com/go-fed/activity/issues?q=is%3Aissue) to see
+[existing issues](https://github.com/poast-social/activity/issues?q=is%3Aissue) to see
 if it has already been filed. If not, please file a new one with the
-[`bug` issue label](https://github.com/go-fed/activity/issues/new?template=bug-report-template.md&labels=bug).
+[`bug` issue label](https://github.com/poast-social/activity/issues/new?template=bug-report-template.md&labels=bug).
 
 ## I have a great idea!
 
 The issues section is made just for you! Please check the 
-[existing issues](https://github.com/go-fed/activity/issues?q=is%3Aissue) to see
+[existing issues](https://github.com/poast-social/activity/issues?q=is%3Aissue) to see
 if the idea has already been proposed. If not, please file a new one with the
-[`feature request` issue label](https://github.com/go-fed/activity/issues/new?template=feature-request-template.md&labels=feature%20request).
+[`feature request` issue label](https://github.com/poast-social/activity/issues/new?template=feature-request-template.md&labels=feature%20request).
 
 ## I want to contribute code!
 
@@ -62,7 +62,7 @@ The `vocab` and `streams` packages are code generated on order of hundreds of
 thousands to a million lines long. If using Go 1.9 or before, use `go install`
 or `go build -i` to cache the build artifacts and do incremental builds.
 
-Additionally, see [#42](https://github.com/go-fed/activity/issues/42).
+Additionally, see [#42](https://github.com/poast-social/activity/issues/42).
 
 ### Can I financially support this effort?
 

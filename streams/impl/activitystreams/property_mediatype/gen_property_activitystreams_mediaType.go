@@ -4,8 +4,8 @@ package propertymediatype
 
 import (
 	"fmt"
-	rfc2045 "github.com/go-fed/activity/streams/values/rfc2045"
-	vocab "github.com/go-fed/activity/streams/vocab"
+	rfc2045 "github.com/poast-social/activity/streams/values/rfc2045"
+	vocab "github.com/poast-social/activity/streams/vocab"
 	"net/url"
 )
 

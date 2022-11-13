@@ -4,14 +4,14 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"github.com/go-fed/activity/astool/convert"
-	"github.com/go-fed/activity/astool/gen"
-	"github.com/go-fed/activity/astool/rdf"
-	"github.com/go-fed/activity/astool/rdf/owl"
-	"github.com/go-fed/activity/astool/rdf/rdfs"
-	"github.com/go-fed/activity/astool/rdf/rfc"
-	"github.com/go-fed/activity/astool/rdf/schema"
-	"github.com/go-fed/activity/astool/rdf/xsd"
+	"github.com/poast-social/activity/astool/convert"
+	"github.com/poast-social/activity/astool/gen"
+	"github.com/poast-social/activity/astool/rdf"
+	"github.com/poast-social/activity/astool/rdf/owl"
+	"github.com/poast-social/activity/astool/rdf/rdfs"
+	"github.com/poast-social/activity/astool/rdf/rfc"
+	"github.com/poast-social/activity/astool/rdf/schema"
+	"github.com/poast-social/activity/astool/rdf/xsd"
 	"io"
 	"io/ioutil"
 	"os"
@@ -135,7 +135,7 @@ The tool relies on built-in knowledge of several ontologies: RDF, RDFS, OWL,
 Schema.org, XML, and a few RFCs. However, this tool doesn't have complete
 knowledge of all of these ontologies. It may error out because a provided
 specification uses a definition that the tool doesn't currently know. In such a
-case, please file an issue at https://github.com/go-fed/activity in order to
+case, please file an issue at https://github.com/poast-social/activity in order to
 include the missing definition.
 
 Experimental support for generating the code as a module is provided by settting

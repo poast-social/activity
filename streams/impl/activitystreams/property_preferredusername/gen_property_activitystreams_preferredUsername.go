@@ -4,9 +4,9 @@ package propertypreferredusername
 
 import (
 	"fmt"
-	langstring "github.com/go-fed/activity/streams/values/langString"
-	string1 "github.com/go-fed/activity/streams/values/string"
-	vocab "github.com/go-fed/activity/streams/vocab"
+	langstring "github.com/poast-social/activity/streams/values/langString"
+	string1 "github.com/poast-social/activity/streams/values/string"
+	vocab "github.com/poast-social/activity/streams/vocab"
 	"net/url"
 )
 

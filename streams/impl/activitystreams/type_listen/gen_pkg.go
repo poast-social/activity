@@ -2,7 +2,7 @@
 
 package typelisten
 
-import vocab "github.com/go-fed/activity/streams/vocab"
+import vocab "github.com/poast-social/activity/streams/vocab"
 
 var mgr privateManager
 

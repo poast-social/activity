@@ -2,7 +2,7 @@ package streams
 
 import (
 	"encoding/json"
-	"github.com/go-fed/activity/streams/vocab"
+	"github.com/poast-social/activity/streams/vocab"
 	"github.com/go-test/deep"
 	"reflect"
 	"testing"

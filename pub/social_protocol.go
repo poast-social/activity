@@ -2,7 +2,7 @@ package pub
 
 import (
 	"context"
-	"github.com/go-fed/activity/streams/vocab"
+	"github.com/poast-social/activity/streams/vocab"
 	"net/http"
 )
 

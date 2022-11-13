@@ -4,8 +4,8 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/go-fed/activity/streams"
-	"github.com/go-fed/activity/streams/vocab"
+	"github.com/poast-social/activity/streams"
+	"github.com/poast-social/activity/streams/vocab"
 	"net/url"
 )
 

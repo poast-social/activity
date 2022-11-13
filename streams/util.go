@@ -1,7 +1,7 @@
 package streams
 
 import (
-	"github.com/go-fed/activity/streams/vocab"
+	"github.com/poast-social/activity/streams/vocab"
 )
 
 const (

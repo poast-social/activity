@@ -3,8 +3,8 @@
 package streams
 
 import (
-	typepublickey "github.com/go-fed/activity/streams/impl/w3idsecurityv1/type_publickey"
-	vocab "github.com/go-fed/activity/streams/vocab"
+	typepublickey "github.com/poast-social/activity/streams/impl/w3idsecurityv1/type_publickey"
+	vocab "github.com/poast-social/activity/streams/vocab"
 )
 
 // W3IDSecurityV1PublicKeyIsDisjointWith returns true if PublicKey is disjoint

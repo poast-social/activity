@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/go-fed/activity/streams"
-	"github.com/go-fed/activity/streams/vocab"
+	"github.com/poast-social/activity/streams"
+	"github.com/poast-social/activity/streams/vocab"
 )
 
 // sideEffectActor must satisfy the DelegateActor interface.

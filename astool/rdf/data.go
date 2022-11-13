@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 	"github.com/dave/jennifer/jen"
-	"github.com/go-fed/activity/astool/codegen"
+	"github.com/poast-social/activity/astool/codegen"
 	"net/url"
 )
 

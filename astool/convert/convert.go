@@ -4,17 +4,17 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/dave/jennifer/jen"
-	"github.com/go-fed/activity/astool/codegen"
-	"github.com/go-fed/activity/astool/gen"
-	"github.com/go-fed/activity/astool/rdf"
-	"github.com/go-fed/activity/astool/rdf/xsd"
+	"github.com/poast-social/activity/astool/codegen"
+	"github.com/poast-social/activity/astool/gen"
+	"github.com/poast-social/activity/astool/rdf"
+	"github.com/poast-social/activity/astool/rdf/xsd"
 	"net/url"
 	"sort"
 	"strings"
 )
 
 const (
-	interfacePkg = "vocab"
+	interfacePkg = "vocab" 
 )
 
 // File is a code-generated file.

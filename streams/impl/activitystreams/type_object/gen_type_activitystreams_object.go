@@ -4,7 +4,7 @@ package typeobject
 
 import (
 	"fmt"
-	vocab "github.com/go-fed/activity/streams/vocab"
+	vocab "github.com/poast-social/activity/streams/vocab"
 	"strings"
 )
 

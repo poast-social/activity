@@ -6,7 +6,7 @@
 [![Go Report Card][Go-Report-Card-Image]][Go-Report-Card-Url] [![License][License-Image]][License-Url]
 [![Chat][Chat-Image]][Chat-Url] [![OpenCollective][OpenCollective-Image]][OpenCollective-Url]
 
-`go get github.com/go-fed/activity`
+`go get github.com/poast-social/activity`
 
 This repository contains two libraries and a tool:
 
@@ -28,7 +28,7 @@ This library has been successfully used to
 An [official implementation report](https://activitypub.rocks/implementation-report/)
 was last submitted for version **0.2.0** [here](https://github.com/w3c/activitypub/issues/318).
 Unfortunately, the official implementation report tool is no longer maintained.
-Previous unofficial implementation reports are available in [issue #46](https://github.com/go-fed/activity/issues/46).
+Previous unofficial implementation reports are available in [issue #46](https://github.com/poast-social/activity/issues/46).
 
 Please see CHANGELOG for changes between versions.
 
@@ -96,12 +96,12 @@ libraries.
 Thanks to those who have been early adopters with v0 and/or provided early
 feedback.
 
-[Build-Status-Image]: https://github.com/go-fed/activity/workflows/build/badge.svg
-[Build-Status-Url]: https://github.com/go-fed/activity/actions
-[Go-Reference-Image]: https://pkg.go.dev/badge/github.com/go-fed/activity
-[Go-Reference-Url]: https://pkg.go.dev/github.com/go-fed/activity
-[Go-Report-Card-Image]: https://goreportcard.com/badge/github.com/go-fed/activity
-[Go-Report-Card-Url]: https://goreportcard.com/report/github.com/go-fed/activity
+[Build-Status-Image]: https://github.com/poast-social/activity/workflows/build/badge.svg
+[Build-Status-Url]: https://github.com/poast-social/activity/actions
+[Go-Reference-Image]: https://pkg.go.dev/badge/github.com/poast-social/activity
+[Go-Reference-Url]: https://pkg.go.dev/github.com/poast-social/activity
+[Go-Report-Card-Image]: https://goreportcard.com/badge/github.com/poast-social/activity
+[Go-Report-Card-Url]: https://goreportcard.com/report/github.com/poast-social/activity
 [License-Image]: https://img.shields.io/github/license/go-fed/activity?color=blue
 [License-Url]: https://opensource.org/licenses/BSD-3-Clause
 [Chat-Image]: https://img.shields.io/matrix/go-fed:feneas.org?server_fqdn=matrix.org

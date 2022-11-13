@@ -4,8 +4,8 @@ package propertyref
 
 import (
 	"fmt"
-	string1 "github.com/go-fed/activity/streams/values/string"
-	vocab "github.com/go-fed/activity/streams/vocab"
+	string1 "github.com/poast-social/activity/streams/values/string"
+	vocab "github.com/poast-social/activity/streams/vocab"
 	"net/url"
 )
 

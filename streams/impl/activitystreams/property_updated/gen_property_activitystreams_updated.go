@@ -4,8 +4,8 @@ package propertyupdated
 
 import (
 	"fmt"
-	datetime "github.com/go-fed/activity/streams/values/dateTime"
-	vocab "github.com/go-fed/activity/streams/vocab"
+	datetime "github.com/poast-social/activity/streams/values/dateTime"
+	vocab "github.com/poast-social/activity/streams/vocab"
 	"net/url"
 	"time"
 )

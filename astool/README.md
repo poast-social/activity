@@ -1,8 +1,8 @@
 # ActivityStreams Tool
 
 ```
-go get github.com/go-fed/activity
-cd $GOPATH/github.com/go-fed/activity/astool
+go get github.com/poast-social/activity
+cd $GOPATH/github.com/poast-social/activity/astool
 go build
 ./astool -h
 ```
@@ -52,7 +52,7 @@ tool is `activitystreams.jsonld` which contains the OWL2 definition of the
 ActivityStreams specification. To generate the code, in your `$GOPATH` do:
 
 ```
-cd $GOPATH/github.com/go-fed/activity/astool
+cd $GOPATH/github.com/poast-social/activity/astool
 go generate
 ```
 
@@ -102,7 +102,7 @@ This tool relies on built-in knowledge of several ontologies:
 
 It does not have complete knowledge of these schemas, so if an error is
 encountered during the code generation process with a new extension, please
-[file an issue](https://github.com/go-fed/activity/issues).
+[file an issue](https://github.com/poast-social/activity/issues).
 
 ## Non-Standard Behaviors
 

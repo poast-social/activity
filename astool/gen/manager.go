@@ -3,7 +3,7 @@ package gen
 import (
 	"fmt"
 	"github.com/dave/jennifer/jen"
-	"github.com/go-fed/activity/astool/codegen"
+	"github.com/poast-social/activity/astool/codegen"
 )
 
 const (
